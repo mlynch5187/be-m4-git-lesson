@@ -5,6 +5,7 @@
 
 #### Palette
 ![palette](http://g.recordit.co/Vs3VezqItS.gif)
+
 #### Log In
 ![log in page](http://g.recordit.co/maALdkuAtt.gif)
 ### User Profile
